@@ -1,10 +1,10 @@
 # jamal
 herramientas de hacking 
-.DoS
+
 .phishing 
 .arp spoof
-.fuerza bruta 
-.whois 
+.scaning de puertos 
+.whois
 
 "en trabajo"
 ./jamal
