@@ -1,5 +1,11 @@
 # jamal
-herramienta de phishing 
+herramientas de hacking 
+.DoS
+.phishing 
+.arp spoof
+.fuerza bruta 
+.whois 
 
+"en trabajo"
 ./jamal
 
